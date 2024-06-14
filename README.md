@@ -51,7 +51,7 @@ Each key corresponds to `h2`, `h3`, or `<strong>` tags from the lecture pages. T
 
 ## Example Usage
 
-1. **User Query**: "What is a language model?"
+1. **User Query**: "What are Benefits and Harms?"
 
 2. **FAISS Retrieval**: The query is matched to the top 2 closest keys in the vector database using L2 distance.
 
