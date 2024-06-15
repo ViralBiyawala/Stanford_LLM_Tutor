@@ -1,8 +1,8 @@
-# AI Chat Bot using GPT-2 and FAISS
+# Stanford LLM Tutor | AI Bot
 
 ## Project Overview
 
-This repository contains the implementation of an AI chatbot built using a transformer model (`gpt2`) from Hugging Face. The chatbot leverages FAISS for vector database storage to efficiently match user queries with relevant data. The data used for training and response generation was scraped from the official Stanford LLM course.
+This repository contains the implementation of an AI bot built using a transformer model (`gpt2`) from Hugging Face. The chatbot leverages FAISS for vector database storage to efficiently match user queries with relevant data. The data used for training and response generation was scraped from the official Stanford LLM course.
 
 ## Features
 
